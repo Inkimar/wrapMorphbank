@@ -1,7 +1,7 @@
 =============
->git clone <path>
+ - > git clone <path>
 - if maven is not installed on your machine, install it ...
-> mvn clean install jetty:run
+- > mvn clean install jetty:run
 - Jetty runs on port 7070, configured in the pom.xml-file
 - run the below examples in browser.
 
